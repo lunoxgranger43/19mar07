@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.liquidgold.site/superjp.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/gilajp.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/pakong86.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/viral88.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/clan4d.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/elang212.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/gori77.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/viral4d.html/sitemap.xml
+Sitemap: https://ftp.liquidgold.site/playground88.html/sitemap.xml
